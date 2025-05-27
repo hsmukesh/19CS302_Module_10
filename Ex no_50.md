@@ -1,5 +1,5 @@
 # EX 50 C function to delete a node from a Doubly Linked List at the beginning of the list.
-## DATE:
+## DATE: 08/05/2025
 ## AIM:
 To write a C function to delete a node from a Doubly Linked List at the beginning of the list.
 
